@@ -1,0 +1,1 @@
+Um game simples, onde é gerado um número aleatório e que o usuário tem acerta digitando um número entre zero e nove, caso digite um número inferior/maior ou que não seja correspondente ao número gerado a instrução se repete.
